@@ -1,0 +1,78 @@
+body {
+    background-color: #191970;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: white;
+    font-size: 25px;
+    margin-top: 40px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+ul {
+    font-size: 16px;
+    margin-left: 20px;
+    list-style-type: none;
+
+}
+
+li {
+    margin: 8px ;
+}
+
+.skills{
+    text-align: right;
+}
+
+.image1 img{
+    width: 24%;
+    height: 12%;
+    border-radius: 5px;
+    margin: 10px ;
+}
+
+hr {
+    height: 6px;
+    background-color: orange;
+    width: 90%;
+    margin: 20px ;
+}
+
+.contacts_abi {
+    background-color: #0b1f4a;
+    padding: 20px;
+    text-align: center;
+}
+
+.links_abi {
+    margin: 20px 0;
+}
+
+.links_abi a {
+    color: white;
+    text-decoration: underline;
+    margin: 0 15px;
+    font-size: 18px;
+    display: inline-block; 
+    margin-bottom: 10px;
+}
+
+.links_abi a:hover {  
+    color: lightblue;
+}
